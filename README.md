@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rahul.
 - 👀 I’m interested in eveything related to internet.
-- 🌱 I’m currently learning web devlopment.
-- 💞️ I’m looking to collaborate on building up my website.
+- 🌱 I’m currently learning game devlopment.
 - 📫 Reach mr at rahulkhalkho83@gmail.com
 
 <!---
